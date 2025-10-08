@@ -1,0 +1,44 @@
+LLDP neighbor-information of port 1[GigabitEthernet1/0/1]:
+  System name : sec_101_ap1
+  OperMau     : speed(1000)/duplex(Full)
+
+LLDP neighbor-information of port 2[GigabitEthernet1/0/2]:
+  System name : sec_102_ap1
+  OperMau     : speed(100)/duplex(Full)
+
+LLDP neighbor-information of port 3[GigabitEthernet1/0/3]:
+  System name : sec_103_ap1
+  OperMau     : speed(1000)/duplex(Full)
+
+LLDP neighbor-information of port 4[GigabitEthernet1/0/4]:
+  System name : sec_104_ap1
+  OperMau     : speed(100)/duplex(Full)
+
+LLDP neighbor-information of port 5[GigabitEthernet1/0/5]:
+  System name : sec_105_ap1
+  OperMau     : speed(1000)/duplex(Full)
+
+LLDP neighbor-information of port 6[GigabitEthernet1/0/6]:
+  System name : sec_201_ap1
+  OperMau     : speed(1000)/duplex(Full)
+
+LLDP neighbor-information of port 7[GigabitEthernet1/0/7]:
+  System name : sec_202_ap1
+  OperMau     : speed(100)/duplex(Full)
+
+LLDP neighbor-information of port 8[GigabitEthernet1/0/8]:
+  System name : sec_203_ap1
+  OperMau     : speed(1000)/duplex(Full)
+
+LLDP neighbor-information of port 9[GigabitEthernet1/0/9]:
+  System name : sec_204_ap1
+  OperMau     : speed(100)/duplex(Full)
+
+LLDP neighbor-information of port 10[GigabitEthernet1/0/10]:
+  System name : sec_205_ap1
+  OperMau     : speed(1000)/duplex(Full)
+
+# 介面概要（display interface brief 模擬）
+GE1/0/22  DOWN  1G(a)  F(a)  A  1322  sec_304_ap1 downlink
+GE1/0/23  UP    1G(a)  F(a)  A  1322  sec_305_ap1
+GE1/0/24  DOWN  1G(a)  F(a)  A  1322  sec_401_ap1 old
